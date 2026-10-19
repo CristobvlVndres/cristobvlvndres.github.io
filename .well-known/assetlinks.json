@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.cristobvlvndres.twa",
+        "sha256_cert_fingerprints": ["AE:1C:55:F5:4A:38:DD:2E:2A:CF:A6:EA:20:3F:97:13:DB:E7:70:6F:C2:02:04:4B:B1:08:82:C5:58:D7:B9:6C"]
+      }
+    }]
